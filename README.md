@@ -139,12 +139,12 @@ int main() {
 
 ./shm.o
 
-![Alt text](../imgs/exp06-1.png)
+![Alt text](img/exp06-1.png)
 
 
 ipcs
 
-![Alt text](../imgs/exp06-2.png)
+![Alt text](img/exp06-2.png)
 
 # RESULT:
 The program is executed successfully.
